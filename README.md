@@ -1,4 +1,4 @@
-# Hackking
+# King Hacke
 
 
 
@@ -13,8 +13,10 @@
 # apt install git
 
 # git clone https://github.com/kingkhokhar777/Hackking.git
+
 # cd King-byfbhack
-# python2 Kinghacker.py
+
+# python2 Kinghacke.py
 
 # Username : King
 # password : Hacker
